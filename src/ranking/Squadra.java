@@ -32,5 +32,4 @@ public class Squadra implements Comparable<Squadra>
 		else
 			return 1;
 	}
-
 }
