@@ -65,6 +65,8 @@ public class Load
 		competizioni.add(c);
 		c = new CoppaRipescaggioDue(); 
 		competizioni.add(c);
+		c = new CoppaQuarti();
+		competizioni.add(c);
 		c = new SerieA(); 
 		competizioni.add(c); 
 		c = new SerieB(); 
@@ -74,6 +76,8 @@ public class Load
 		c = new ChampionsGironi(); 
 		competizioni.add(c);
 		c = new ChampionsSemifinali();
+		competizioni.add(c);
+		c = new ChampionsFinale();
 		competizioni.add(c);
 		c = new EuropaLGironi(); 
 		competizioni.add(c);
