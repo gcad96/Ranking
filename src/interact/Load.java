@@ -24,7 +24,8 @@ import ranking.competizioni.serie.*;
 public class Load 
 {
 	private static final String IN = "In/Input "; 
-	private static final String SQUADRE = "In/Squadre"; 
+	private static final String SQUADRE = "In/Squadre";
+
 	public static List<String> readData(String file)
 	{
 		List<String> lines = null;
